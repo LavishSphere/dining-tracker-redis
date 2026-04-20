@@ -5,7 +5,7 @@ const app = express();
 app.use(express.json());
 app.use(express.static('public'));
 
-const client = createClient();
+const client = createClient({ url: 'redis://localhost:6379' });
 
 client.on('error', (err) => console.error('Redis error:', err));
 

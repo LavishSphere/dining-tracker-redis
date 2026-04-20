@@ -1,6 +1,6 @@
 const { createClient } = require('redis');
 
-const client = createClient();
+const client = createClient({ url: 'redis://localhost:6379' });
 const KEY = 'mostViewed:menuItems';
 
 const items = [

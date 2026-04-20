@@ -8,7 +8,7 @@ Students and community members often struggle to quickly access accurate nutriti
 
 ## Video Walkthrough
 
-[Watch on SharePoint](#)
+[Watch on SharePoint](https://northeastern-my.sharepoint.com/:v:/g/personal/khayrul_a_northeastern_edu/IQBAhYKVeCX-QoFqV8CBBCwkAQxKSuUnNpKAVId7xBWW8W4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aM6RYw)
 
 ---
 
